@@ -1,5 +1,5 @@
 == README
 
-# Simple twitter clone
+== Simple twitter clone
 
 this is a simple twitter clone built using ruby on rails.
